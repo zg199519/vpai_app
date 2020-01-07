@@ -127,7 +127,7 @@ class _PositionDetailsState extends State<PositionDetails>{
                                         spacing: 6.0,
                                         alignment: WrapAlignment.start,
                                         children: <Widget>[
-                                          Text('iiiii'),
+                                          Text('99'),
                                           Text('要求：形象气质佳，价格外向，有健康证'),
                                         ],
                                       ),
